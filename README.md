@@ -1,4 +1,4 @@
-#Assasin in farm
+#Assassin in farm
 
 bit igre je ubiti drugog igrača prije nego on tebe ubije
 Kontrole za P1:
